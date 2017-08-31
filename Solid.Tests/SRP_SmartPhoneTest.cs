@@ -4,7 +4,7 @@ using Xunit;
 
 namespace Solid.Tests
 {
-    public class SmartPhoneTest
+    public class SrpSmartPhoneTest
     {
         [Fact]
         public void SmartPhoneInitTest()
